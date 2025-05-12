@@ -1,2 +1,7 @@
-v0.0.3
-Nova atualização (v0.0.3) no Projeto RNG com os botões da parte inferior funcionando e implementação de inventario das auras que você possui.
+v0.0.4 (12/05/2025)
+- implementação do sistema de auras funcionando em conjunto com o inventario.
+
+- algumas aura pre-prontas foram colocadas para teste.
+
+v0.0.3 (09/05/2025)
+-Botões da parte inferior funcionando e implementação de inventario das auras que você possui.
